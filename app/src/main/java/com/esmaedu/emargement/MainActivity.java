@@ -12,8 +12,6 @@ import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
 
-//Adriel
-
 public class MainActivity extends AppCompatActivity {
 
     @Override
